@@ -11,13 +11,17 @@ Using Pyber’s, a python based ride sharing app, data we’ve been tasked with 
 Naturally the "Urban" city type dominates our findings from a Total Rides perspective. Within our dataset the Urban city type managed 1625 rides, while the Suburban and Rural types resulted in 625 and 125 rides respectively.
 
 ### Total Drivers
-In line with Total Rides, the "Total Drivers" metric also found that the "Urban" city type led our counts with 59602 drivers (error). The Urban and Rural "Total Driver"  counts were significantly lower at 8570 and 537 respetively
+In line with Total Rides, the "Total Drivers" metric also found that the "Urban" city type led our counts with 59602 drivers (error). The Suburban and Rural "Total Driver" counts were significantly lower at 8570 and 537 respectively.
 
 ### Total Fares
+Again in line with "Total Rides" and "Total Drivers", the "Total Fares" metric heavily skews towards the "Urban" city type with 39854.38 fares (error). The "Suburban" and "Rural" city types significantly trail with 19356.33 and 4327.93 respectively.  
 
 ### Average Fare per Ride
+In reveiwing the "Average Fare per Ride" metric, we noticed that the outcomes actually swapped. the "Rural" city type now leads the members with 34.62 and Suburban and Urban city types now trail with 30.97 and 24.52 respectively. It appears as if the distance traveled by each fare significantly favors the company from a fare perspective. 
 
 ### Average Fare per Driver
+In line with 
+
 
 ### Total Fare by City Type
 
