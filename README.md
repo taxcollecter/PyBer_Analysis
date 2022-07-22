@@ -5,7 +5,7 @@ Using Pyber’s, a python based ride sharing app, data we’ve been tasked with 
 ## Results
 -Differences in ride-sharing data among the different city types
 
-![District Visual](https://github.com/taxcollecter/School_District_Analysis/blob/3bc561296932cbc55de75f8335c1b167a3541840/Resources/District_Analysis.png)
+![District Visual](https://github.com/taxcollecter/PyBer_Analysis/blob/2bc7fc3c7792ab3313bdb1a1dd4be53616d15400/Resources/Summary_DF.png)
 
 ### Total Rides
 Naturally the "Urban" city type dominates our findings from a Total Rides perspective. Within our dataset the Urban city type managed 1625 rides, while the Suburban and Rural types resulted in 625 and 125 rides respectively.
