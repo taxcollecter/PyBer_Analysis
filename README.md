@@ -17,15 +17,15 @@ In line with Total Rides, the "Total Drivers" metric also found that the "Urban"
 Again in line with "Total Rides" and "Total Drivers", the "Total Fares" metric heavily skews towards the "Urban" city type with 39854.38 fares (error). The "Suburban" and "Rural" city types significantly trail with 19356.33 and 4327.93 respectively.  
 
 ### Average Fare per Ride
-In reveiwing the "Average Fare per Ride" metric, we noticed that the outcomes actually swapped. the "Rural" city type now leads the members with 34.62 and Suburban and Urban city types now trail with 30.97 and 24.52 respectively. It appears as if the distance traveled by each fare significantly favors the company from a fare perspective. 
+In reviewing the "Average Fare per Ride" metric, we noticed that the outcomes actually swapped. the "Rural" city type now leads the members with 34.62 and Suburban and Urban city types now trail with 30.97 and 24.52 respectively. It appears as if the distance traveled by each fare significantly favors the company from a fare perspective. 
 
 ### Average Fare per Driver
 In line with the Average Fare per Ride metric, we find that the Rural fares pay out better Average Fare per driver at 8.06. The Suburban and Urban city types come in at 2.26 and a dismal .67 respectively. 
 
 ### Total Fare by City Type
-Reviewing the "Total Fare by City type" we confirm that the Urban fares drastically lead the Suburban and Rural city types in counts. We're finding a quanty over quality situation as it relates to these types. 
+Reviewing the "Total Fare by City type" we confirm that the Urban fares drastically lead the Suburban and Rural city types in counts. We're finding a quantity over quality situation as it relates to these types. 
 
-![District Visual](https://github.com/taxcollecter/School_District_Analysis/blob/3bc561296932cbc55de75f8335c1b167a3541840/Resources/District_Analysis.png)
+![District Visual](https://github.com/taxcollecter/PyBer_Analysis/blob/649edbe5251b0a11427f530d0b6f189a042e62d5/Resources/Final_Graph.png)
 
 ## Summary
-In summary, by removing the 9th grade scores of Thomas High School we are seeing an overall negative impact to the School district's Math and Reading scores. If academic dishonesty is at the root of variance, we will need to work with the faculty to ensure this does not happen again and confirm student's confidence in performing during these test. Prior to the data augmentation, the 9th graders at THS led the other grades in Math scores and were 2nd in Reading scores to the 12th graders. By removing the 9th graders scores via this excercise, these 4 data points at a District and School level are visibly impactful. To maintain the school's trend in potential performance, the dishonesty will need to be rooted out. 
+In summary, we've found that the "City type" has a significant impact on the fare value collected by the driver and subsequently the company. We advise the company to prioritize Rural trips as they are more lucrative from a fare perspective. While this is a difficult ask considering the number of rides occurring within the Urban setting, especially from a staffing perspective, the Rural and Suburban areas offer a better ROI.
