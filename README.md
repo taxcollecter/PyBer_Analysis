@@ -20,11 +20,10 @@ Again in line with "Total Rides" and "Total Drivers", the "Total Fares" metric h
 In reveiwing the "Average Fare per Ride" metric, we noticed that the outcomes actually swapped. the "Rural" city type now leads the members with 34.62 and Suburban and Urban city types now trail with 30.97 and 24.52 respectively. It appears as if the distance traveled by each fare significantly favors the company from a fare perspective. 
 
 ### Average Fare per Driver
-In line with 
-
+In line with the Average Fare per Ride metric, we find that the Rural fares pay out better Average Fare per driver at 8.06. The Suburban and Urban city types come in at 2.26 and a dismal .67 respectively. 
 
 ### Total Fare by City Type
-
+Reviewing the "Total Fare by City type" we confirm that the Urban fares drastically lead the Suburban and Rural city types in counts. We're finding a quanty over quality situation as it relates to these types. 
 
 ![District Visual](https://github.com/taxcollecter/School_District_Analysis/blob/3bc561296932cbc55de75f8335c1b167a3541840/Resources/District_Analysis.png)
 
